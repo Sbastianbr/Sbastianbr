@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hey, I'm Sebastián! 👋
 
-<!--
-**Sbastianbr/Sbastianbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🇨🇱 Chilean, based in Poland 🇵🇱
 
-Here are some ideas to get you started:
+I'm passionate about building websites, creating digital experiences, and turning ideas into real projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently developing **Sebnix**, my web and digital solutions brand, while working on projects that combine design, technology, and functionality.
+
+---
+
+### 🚀 Featured Projects
+
+**🌎 SebaSpanish**
+
+An online platform for learning Spanish, featuring multilingual content, class bookings, and a personalized student experience.
+
+**💻 Sebnix**
+
+My growing web development and digital solutions brand, focused on creating modern, functional, and user-friendly websites.
+
+**🛍️ AJR Importadora**
+
+A business website designed to showcase products and connect customers with the company.
+
+**🐠 Aguas Aquarium**
+
+A digital aquarium product catalogue focused on easy navigation and customer contact.
+
+---
+
+### 🛠️ Technologies & Tools
+
+`HTML` · `CSS` · `JavaScript` · `Supabase` · `GitHub` · `GitHub Pages` · `VS Code`
+
+### 🌍 A Little About Me
+
+- 📍 Based in Wrocław, Poland
+- 🇨🇱 Originally from Chile
+- 🚀 Building and improving real-world web projects
+- 📚 Continuously learning new technologies
+- 🎯 Focused on clean design and practical digital solutions
+
+---
+
+### 📫 Let's Connect
+
+Explore my projects and follow my journey as I continue building Sebnix.
+
+*Learning, building, and improving — one project at a time.*
