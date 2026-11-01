@@ -20,11 +20,47 @@ Building modern websites, digital experiences and turning ideas into real projec
 
 **🌎 SebaSpanish**
 
-An online platform for learning Spanish, featuring multilingual content, class bookings, and a personalized student experience.
+**Online Spanish Learning Platform | In Development**
 
-**💻 Sebnix**
+A multilingual platform for personalized Spanish lessons, featuring online booking, a student portal, and Google Calendar integration in development.
 
-My growing web development and digital solutions brand, focused on creating modern, functional, and user-friendly websites.
+**Languages:** 🇪🇸 Spanish · 🇬🇧 English · 🇵🇱 Polish
+
+
+
+**Technologies:**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+
+
+
+
+[![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sbastianbr/sebaspanish)
+
+---
+
+### 💻 Sebnix
+
+**Web Development & Digital Solutions | In Development**
+
+Sebnix is my independent digital brand focused on creating modern, responsive, and user-friendly websites that help businesses build their online presence.
+
+**What I focus on:**
+- 🌐 Website Design & Development
+- 📱 Responsive Web Experiences
+- 🎨 Clean & Modern Interfaces
+- 🚀 Practical Digital Solutions
+
+**Current Projects:** SebaSpanish · AJR Importadora · Agua's Aquarium
+
+*🌐 Official Sebnix website coming soon.*
+
+---
+
 
 **🛍️ AJR Importadora**
 
