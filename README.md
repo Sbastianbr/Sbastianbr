@@ -1,12 +1,20 @@
-# Hey, I'm Sebastián! 👋
 
-🇨🇱 Chilean, based in Poland 🇵🇱
+<div align="center">
 
-I'm passionate about building websites, creating digital experiences, and turning ideas into real projects.
+# Hey, I'm Sebastián Bravo! 👋
 
-Currently developing **Sebnix**, my web and digital solutions brand, while working on projects that combine design, technology, and functionality.
+### 🇨🇱 Chilean creator based in Poland 🇵🇱
+
+Building modern websites, digital experiences and turning ideas into real projects.
+
+**Founder of Sebnix | Creator of SebaSpanish**
+
+[![SebaSpanish](https://img.shields.io/badge/Explore-SebaSpanish-2563EB?style=for-the-badge)](https://github.com/Sbastianbr/sebaspanish)
+
+</div>
 
 ---
+
 
 ### 🚀 Featured Projects
 
