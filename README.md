@@ -62,15 +62,41 @@ Sebnix is my independent digital brand focused on creating modern, responsive, a
 ---
 
 
-**🛍️ AJR Importadora**
 
-A business website designed to showcase products and connect customers with the company.
+### 🛍️ AJR Importadora
 
-**🐠 Aguas Aquarium**
+**Business Website | Under Review**
 
-A digital aquarium product catalogue focused on easy navigation and customer contact.
+A business website designed to showcase products, present company information, and make it easier for customers to connect with the business.
+
+**Project Focus:**
+- 🛍️ Product Presentation
+- 🎨 Modern & Clean Design
+- 📱 Responsive Web Experience
+- 💬 Customer Communication
+
+**Status:** 🔄 Currently under review.
 
 ---
+
+
+
+### 🐠 Aguas Aquarium
+
+**Aquarium Product Catalogue | In Development**
+
+A digital catalogue website designed for an aquarium business, focused on showcasing products, providing a simple browsing experience, and helping customers connect with the business through WhatsApp.
+
+**Project Focus:**
+- 🐠 Aquarium Product Catalogue
+- 🎨 Clean & Modern Interface
+- 📱 Mobile-Friendly Design
+- 💬 WhatsApp Customer Contact
+
+**Status:** 🚧 Currently in development.
+
+---
+
 
 
 ### 🛠️ Technologies & Tools
