@@ -26,6 +26,12 @@ A multilingual platform for personalized Spanish lessons, featuring online booki
 
 **Languages:** 🇪🇸 Spanish · 🇬🇧 English · 🇵🇱 Polish
 
+<p align="center">
+  <img src="./sebaspanish-home.png"
+       alt="SebaSpanish - Homepage"
+       width="850">
+</p>
+
 
 
 **Technologies:**
